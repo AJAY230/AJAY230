@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AJAY230
+- 👋 Hi, I’m AJAY
 - 👀 I’m interested in seeking new opportunities
 - 🌱 I’m currently learning python OOPS
 - 💞️ I’m looking to collaborate on ...
